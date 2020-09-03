@@ -13,3 +13,11 @@ Fichier qui liste les commandes vues pendant la formation
 * git log
 * git diff
 * git show
+
+## Commandes historiques
+
+* git checkout
+* git reset
+* git revert
+* git rebase -i
+* git commit --amend
