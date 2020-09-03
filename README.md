@@ -1,8 +1,8 @@
-# Memento commandes git
+# Formation git
 
 Fichier qui liste les commandes vues pendant la formation
 
-## Commandes de bases
+## Memento Commandes de bases
 
 * git config
 * git help
